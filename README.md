@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![HyeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=blehye&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blehye&layout=compact&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=blehye)](https://solved.ac/blehye)
 
 <!--
