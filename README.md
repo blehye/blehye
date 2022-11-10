@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![HyeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=blehye&show_icons=true&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=blehye)](https://solved.ac/blehye)
 
 <!--
 **blehye/blehye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
